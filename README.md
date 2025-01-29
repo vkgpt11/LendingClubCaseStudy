@@ -37,11 +37,14 @@ Risk analytics is a critical aspect of modern banking and financial services. Th
 Loan Dataset was used to solve this problem. It contains the complete loan data for all loans issued through the time period 2007 t0 2011
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
 
+The analysis shows that 82.9% of applicants successfully paid their loans, while 14.1% defaulted. Key factors influencing loan defaults include:
+- Loan Grade: Loans with lower grades have higher default rates, highlighting the importance of grade in lending decisions.
+- Income: Borrowers earning less than $40K exhibit higher default rates across all loan types. However, higher-income borrowers still default more frequently with larger loan amounts.
+- Loan Amounts: Larger funded amounts correlate with higher default rates, especially among low-income borrowers.
+- DTI Ratio: Higher DTI ratios are linked to higher default rates, with borrowers in the 20+ DTI range showing a complex pattern where a moderate number of open accounts reduces risk slightly.
+- Interest Rates and Loan Term: Higher interest rates and longer loan terms increase the likelihood of default, while lower interest rates and shorter terms reduce it.
+These insights suggest that lenders should prioritize loan grade, income stability, and DTI ratio when evaluating default risk, while also considering loan amount and term structure.
 
 
 ## Technologies Used
