@@ -34,6 +34,7 @@ Risk analytics is a critical aspect of modern banking and financial services. Th
 - Build risk profiles for applicants based on their financial history and other factors.
 - Predict the likelihood of default and estimate potential financial losses.
 - Adjust loan terms or interest rates for high-risk applicants to minimize credit loss.
+Loan Dataset was used to solve this problem. It contains the complete loan data for all loans issued through the time period 2007 t0 2011
 
 ## Conclusions
 - Conclusion 1 from the analysis
